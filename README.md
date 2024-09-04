@@ -15,7 +15,7 @@ below are my skills :
 * Network automation
 * IaC
 * API development
-* IP (OSPF, ISIS, BGP), MPLS L2/L3VPN, INTER AS, EVPN, VXLAN
+* IP (OSPF, ISIS, BGP), MPLS L2/L3VPN, Segment Routing, EVPN, VXLAN
 * SDN/NFV
 
 ## CERTIFICATIONS
