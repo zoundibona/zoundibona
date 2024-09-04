@@ -16,16 +16,15 @@ below are my skills :
 
 ## CERTIFICATIONS
 
-  * CKA (Certified Kubernetes Administrator)
-  * CKS (Certified Kubernetes Security)
+  * **CKA** (Certified Kubernetes Administrator)
+  * **CKS** (Certified Kubernetes Security)
 
 
 ## PROJECTS
 
-  - Implemented CI/CD pipeline for software development for nodes configuration (Python, Git, GitHub, GitHub actions, Docker)
-  - Deployment of Kubernetes objects (Deployments/Pods) via Helm, Argo CD and setup of containers metrics visualization via Prometheus / Grafana
-  - Implemented Kubernetes webhook server for mutating /validating Kubernetes POD
-  * 
+  - Implemented CI/CD pipeline for software development for nodes configuration **(Python, Git, GitHub, GitHub actions, Docker)**
+  - Deployment of Kubernetes objects (Deployments/Pods) via **Helm, Argo CD** and setup of containers metrics visualization via **Prometheus / Grafana**
+  - Implemented Kubernetes Webhook API for mutating /validating Kubernetes POD **(Python Flask, Kubernetes)**
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
