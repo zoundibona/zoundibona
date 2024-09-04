@@ -9,9 +9,11 @@ I am ZOUNDI Bonaventure
 I have 15 years of experience in ICT.  
 below are my skills :  
 * Cloud
+* Docker
 * Kubernetes
 * CI/CD
 * Network automation
+* IaC
 * API development
 
 ## CERTIFICATIONS
@@ -24,6 +26,7 @@ below are my skills :
 
   - Implemented CI/CD pipeline for software development for nodes configuration **(Python, Git, GitHub, GitHub actions, Docker)**
   - Deployment of Kubernetes objects (Deployments/Pods) via **Helm, Argo CD** and setup of containers metrics visualization via **Prometheus / Grafana**
+  - Deployed infrastructure using IaC **(Terraform)**
   - Implemented Kubernetes Webhook API for mutating /validating Kubernetes POD **(Python Flask, Kubernetes)**
 <!--
 **zoundibona/zoundibona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
