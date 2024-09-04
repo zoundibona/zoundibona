@@ -1,5 +1,38 @@
 ## Hi there 👋
 
+I am ZOUNDI Bonaventure
+
+
+
+## ABOUT ME...
+
+I have 15 years of experience in ICT.  
+below are my skills :  
+* Cloud
+* Kubernetes
+* CI/CD
+* Network automation
+* API development
+
+## CERTIFICATIONS
+
+  * CKA (Certified Kubernetes Administrator)
+  * CKS (Certified Kubernetes Security)
+
+
+## PROJECTS
+
+  - Implemented CI/CD pipeline for software development for nodes configuration (Python, Git, GitHub, GitHub actions, Docker)
+  - Deployment of Kubernetes objects (Deployments/Pods) via Helm, Argo CD and setup of containers metrics visualization via Prometheus / Grafana
+  - Implemented Kubernetes webhook server for mutating /validating Kubernetes POD
+  * 
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 <!--
 **zoundibona/zoundibona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
