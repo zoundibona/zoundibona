@@ -30,6 +30,7 @@ below are my skills :
   - Deployment of Kubernetes objects (Deployments/Pods) via **Helm, Argo CD** and setup of containers metrics visualization via **Prometheus / Grafana**
   - Deployed infrastructure using IaC **(Terraform)**
   - Implemented Kubernetes Webhook API for mutating /validating Kubernetes POD **(Python Flask, Kubernetes)**
+  - Implemented Kubernetes security API application to automate checking of manifest file via Kubesec **(Python Flask, Kubernetes, Kubesec)**
 <!--
 **zoundibona/zoundibona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
