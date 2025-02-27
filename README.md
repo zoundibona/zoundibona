@@ -27,7 +27,7 @@ below are my skills :
 
 ## PROJECTS
 
-  - Implemented QnA based on AI that uses RAG in order to provide answers which cannot be answered by the LLM model **(Ollama, Langchain, FAISS, RAG)**
+  - Implemented QnA based on AI that uses RAG in order to provide answers which cannot be answered by the LLM model **(Ollama, LangChain, FAISS, RAG)**
   - LLM agents orchestration **(Ollama, LangChain, LangGraph)**
   - Implemented CI/CD pipeline for software development for nodes configuration **(Python, Git, GitHub, GitHub actions, Docker)**
   - Deployment of Kubernetes objects (Deployments/Pods) via **Helm, Argo CD** and setup of containers metrics visualization via **Prometheus / Grafana**
